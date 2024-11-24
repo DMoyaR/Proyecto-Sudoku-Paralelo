@@ -1,0 +1,5 @@
+C:/Users/Trals/Desktop/trabajo paralela/Proyecto/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Trals/Desktop/trabajo paralela/Proyecto/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Trals/Desktop/trabajo paralela/Proyecto/out/build/x64-debug/Proyecto/CMakeFiles/Proyecto.dir
+C:/Users/Trals/Desktop/trabajo paralela/Proyecto/out/build/x64-debug/Proyecto/CMakeFiles/edit_cache.dir
+C:/Users/Trals/Desktop/trabajo paralela/Proyecto/out/build/x64-debug/Proyecto/CMakeFiles/rebuild_cache.dir
